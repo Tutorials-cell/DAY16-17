@@ -1,0 +1,14 @@
+C:\Users\Bahulya\source\repos\Bubblesort\bin\Debug\netcoreapp3.1\Bubblesort.exe
+C:\Users\Bahulya\source\repos\Bubblesort\bin\Debug\netcoreapp3.1\Bubblesort.deps.json
+C:\Users\Bahulya\source\repos\Bubblesort\bin\Debug\netcoreapp3.1\Bubblesort.runtimeconfig.json
+C:\Users\Bahulya\source\repos\Bubblesort\bin\Debug\netcoreapp3.1\Bubblesort.runtimeconfig.dev.json
+C:\Users\Bahulya\source\repos\Bubblesort\bin\Debug\netcoreapp3.1\Bubblesort.dll
+C:\Users\Bahulya\source\repos\Bubblesort\bin\Debug\netcoreapp3.1\Bubblesort.pdb
+C:\Users\Bahulya\source\repos\Bubblesort\obj\Debug\netcoreapp3.1\Bubblesort.csproj.AssemblyReference.cache
+C:\Users\Bahulya\source\repos\Bubblesort\obj\Debug\netcoreapp3.1\Bubblesort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bahulya\source\repos\Bubblesort\obj\Debug\netcoreapp3.1\Bubblesort.AssemblyInfoInputs.cache
+C:\Users\Bahulya\source\repos\Bubblesort\obj\Debug\netcoreapp3.1\Bubblesort.AssemblyInfo.cs
+C:\Users\Bahulya\source\repos\Bubblesort\obj\Debug\netcoreapp3.1\Bubblesort.csproj.CoreCompileInputs.cache
+C:\Users\Bahulya\source\repos\Bubblesort\obj\Debug\netcoreapp3.1\Bubblesort.dll
+C:\Users\Bahulya\source\repos\Bubblesort\obj\Debug\netcoreapp3.1\Bubblesort.pdb
+C:\Users\Bahulya\source\repos\Bubblesort\obj\Debug\netcoreapp3.1\Bubblesort.genruntimeconfig.cache
