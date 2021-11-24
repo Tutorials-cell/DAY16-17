@@ -1,0 +1,14 @@
+C:\Users\Bahulya\source\repos\PrimeNumberDemo\bin\Debug\netcoreapp3.1\PrimeNumberDemo.exe
+C:\Users\Bahulya\source\repos\PrimeNumberDemo\bin\Debug\netcoreapp3.1\PrimeNumberDemo.deps.json
+C:\Users\Bahulya\source\repos\PrimeNumberDemo\bin\Debug\netcoreapp3.1\PrimeNumberDemo.runtimeconfig.json
+C:\Users\Bahulya\source\repos\PrimeNumberDemo\bin\Debug\netcoreapp3.1\PrimeNumberDemo.runtimeconfig.dev.json
+C:\Users\Bahulya\source\repos\PrimeNumberDemo\bin\Debug\netcoreapp3.1\PrimeNumberDemo.dll
+C:\Users\Bahulya\source\repos\PrimeNumberDemo\bin\Debug\netcoreapp3.1\PrimeNumberDemo.pdb
+C:\Users\Bahulya\source\repos\PrimeNumberDemo\obj\Debug\netcoreapp3.1\PrimeNumberDemo.csproj.AssemblyReference.cache
+C:\Users\Bahulya\source\repos\PrimeNumberDemo\obj\Debug\netcoreapp3.1\PrimeNumberDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bahulya\source\repos\PrimeNumberDemo\obj\Debug\netcoreapp3.1\PrimeNumberDemo.AssemblyInfoInputs.cache
+C:\Users\Bahulya\source\repos\PrimeNumberDemo\obj\Debug\netcoreapp3.1\PrimeNumberDemo.AssemblyInfo.cs
+C:\Users\Bahulya\source\repos\PrimeNumberDemo\obj\Debug\netcoreapp3.1\PrimeNumberDemo.csproj.CoreCompileInputs.cache
+C:\Users\Bahulya\source\repos\PrimeNumberDemo\obj\Debug\netcoreapp3.1\PrimeNumberDemo.dll
+C:\Users\Bahulya\source\repos\PrimeNumberDemo\obj\Debug\netcoreapp3.1\PrimeNumberDemo.pdb
+C:\Users\Bahulya\source\repos\PrimeNumberDemo\obj\Debug\netcoreapp3.1\PrimeNumberDemo.genruntimeconfig.cache
